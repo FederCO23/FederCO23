@@ -6,12 +6,12 @@
 - 💞️ Looking to collaborate on Open Source projects related to ML/AI and GIS.
 - 📫 How to reach me: [federico.bessi@gmail.com](mailto:federico.bessi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/federico-bessi/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new mountain bike trails and ride with friends whenever I get the chance 😄
+- ⚡ Fun fact: I love exploring new mountain bike trails and ride with friends... whenever I get the chance 😄
 
 ## Skills
 - 💻 Programming: Python, JavaScript, C++, Git
 - 📊 Data Science: Pandas, NumPy, Scikit-learn, TensorFlow
-- 🖥️ Linux
+- 🖥️ Linux (CompTia certified)
 - 🗃️ SQL
 - 📈 Project Management (PMI)
 
