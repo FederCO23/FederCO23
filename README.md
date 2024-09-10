@@ -13,7 +13,7 @@
 - 📊 Data Science: Pandas, NumPy, Scikit-learn, TensorFlow
 - 🖥️ Linux (CompTia certified)
 - 🗃️ SQL
-- 📈 Project Management (PMI)
+- 📈 Project Management (PMI and Agile/Scrum)
 
 ## Languages
 - Fluent in: Spanish, French, Portuguese, and English
