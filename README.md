@@ -3,17 +3,18 @@
 ## About Me
 - 👀 I’m passionate about Software Engineering and Mountain Biking.
 - 🌱 Currently diving deep into Machine Learning and GIS.
-- 💞️ Looking to collaborate on Open Source projects related to ML/AI and GIS.
+- 💞️ Looking to collaborate on projects related to ML/AI and GIS.
 - 📫 How to reach me: [federico.bessi@gmail.com](mailto:federico.bessi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/federico-bessi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new mountain bike trails and ride with friends... whenever I get the chance 😄
 
 ## Skills
 - 💻 Programming: Python, JavaScript, C++, Git
-- 📊 Data Science: Pandas, NumPy, Scikit-learn, TensorFlow
+- 📊 Data Science: Pandas, matplotlib, seaborn, NumPy, Scikit-learn, TensorFlow, PyTorch
+- 🌎 GIS: Rasterio, pyStac, GeoPy, imageio, tqdm. Tools: ArcGIS, QGIS. Engines/Datasets: GEE, BDC, Kaggle.
 - 🖥️ Linux (CompTia certified)
 - 🗃️ SQL
-- 📈 Project Management (PMI and Agile/Scrum)
+- 📈 Project Management (PMI and Agile/Scrum certified)
 
 ## Languages
 - Fluent in: Spanish, French, Portuguese, and English
