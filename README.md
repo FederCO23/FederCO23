@@ -2,8 +2,8 @@
 
 ## About Me
 - 👀 I’m passionate about Software Engineering and Mountain Biking.
-- 🌱 Currently diving deep into Machine Learning and GIS.
-- 💞️ Looking to collaborate on projects related to ML/AI and GIS.
+- 🌱 Diving deep into Machine Learning and GIS.
+- 💞️ Looking to collaborate on projects related to ML/AI.
 - 📫 How to reach me: [federico.bessi@gmail.com](mailto:federico.bessi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/federico-bessi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new mountain bike trails and ride with friends... whenever I get the chance 😄
