@@ -12,6 +12,7 @@
 - 💻 Programming: Python, JavaScript, C++, Git
 - 📊 Data Science: Pandas, matplotlib, seaborn, NumPy, Scikit-learn, TensorFlow, PyTorch
 - 🌎 GIS: Rasterio, pyStac, GeoPy, imageio, tqdm. Tools: ArcGIS, QGIS. Engines: GEE, BDC
+- ☁️ Cloud Computing: AWS (Lambda, Batch, ECS, Step Functions, API Gateway), Flask, Docker
 - 🖥️ Linux (CompTia certified)
 - 🗃️ SQL
 - 📈 Project Management (PMI and Agile/Scrum certified)
