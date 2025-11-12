@@ -1,27 +1,29 @@
 # 👋 Hi, I’m Federico Bessi (@FederCO23)
 
 ## About Me
-- 👀 I’m passionate about Software Engineering, Machine Learning and Mountain Biking.
-- 🌱 Diving deep into Machine Learning and GIS.
-- 💞️ Looking to collaborate on projects related to ML and DS.
-- 📫 How to reach me: [federico.bessi@gmail.com](mailto:federico.bessi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/federico-bessi/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new mountain bike trails and ride with friends... whenever I get the chance 😄
+- 👀 Passionate about **Software Engineering**, **Machine Learning**, and Mountain Biking.  
+- 🤖 Currently focused on **Computer Vision** and **Natural Language Processing**, applying ML to real-world problems.  
+- 💞️ Open to collaborating on projects involving **ML pipelines**, **model optimization**, and **research**, always combined with solid **software engineering** practices.  
+- 📫 Reach me at [federico.bessi@gmail.com](mailto:federico.bessi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/federico-bessi/).  
+- ⚡ Fun fact: I love exploring new mountain bike trails and riding with friends, whenever I get the chance 😄  
 
 ## Skills
-- 💻 Programming: Python, JavaScript, C++, Git
-- 📊 Data Science: Pandas, Duckdb, matplotlib, seaborn, streamlit, NumPy, Scikit-learn, TensorFlow, PyTorch
-- 🌎 GIS: Rasterio, pyStac, GeoPy, imageio, Pillow, TorchGeo. Tools: ArcGIS, QGIS. Engines: GEE, BDC
-- ☁️ Cloud Computing: AWS (Lambda, Batch, ECS, Step Functions, API Gateway), Flask, Docker🐳
-- 🖥️ Linux (CompTia certified)
-- 🗃️ SQL, PL/SQL
-- 📈 Project Management (PMI and Agile/Scrum certified)
+- 💻 **Programming:** Python, JavaScript, C++, Git  
+- 🧠 **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, Hugging Face, Google AI Studio, LangChain, LlamaIndex  
+- 🖼️ **Computer Vision:** OpenCV, scikit-image, Pillow, imageio, Torchvision, YOLO  
+- 💬 **NLP:** Transformers, Sentence-BERT, Vector Search (FAISS), RAG  
+- 🌎 **GIS:** Rasterio, pySTAC, GeoPy, TorchGeo | Tools: ArcGIS, QGIS | Engines: GEE, BDC  
+- ☁️ **Cloud & MLOps:** AWS (Lambda, Batch, ECS, Step Functions, API Gateway), Flask, Docker 🐳  
+- 📊 **Data Science & Analytics:** Pandas, NumPy, DuckDB, Power BI, matplotlib, seaborn, Streamlit, Looker Studio  
+- 🖥️ **Operating Systems:** Linux (CompTIA certified)  
+- 🗃️ **Structured Databases:** SQL, PL/SQL (PostgreSQL, MySQL, Oracle, MariaDB, SQL Server)  
+- 🗂️ **Vector & NoSQL Databases:** Milvus, Elasticsearch, FAISS, MongoDB  
+- 📈 **Project Management:** PMI and Agile/Scrum certified  
 
 ## Languages
-- Fluent in: Spanish, French, Portuguese and English
+- Fluent in **Spanish**, **French**, **Portuguese**, and **English**
 
+---
 
-<!---
-FederCO23/FederCO23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 _“Building intelligent systems that see, read, and understand the world, one model at a time.”_
+
